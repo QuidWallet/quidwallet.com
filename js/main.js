@@ -51,7 +51,7 @@ $(document).ready(function() {
 	});
 
 	$('.btn-custom').click(function () {
-		$.scrollTo('.download', 1000);
+		$.scrollTo('.newsletter', 1000);
 	return false;
 	});
 
