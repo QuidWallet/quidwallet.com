@@ -56,7 +56,7 @@ $(document).ready(function() {
 	});
 
 	$('.btn-custom-border, a.mouse').click(function () {
-		$.scrollTo('.features', 1000);
+		$.scrollTo('.extra', 1000);
 	return false;
 	});
 
