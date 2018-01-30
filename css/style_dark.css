@@ -542,6 +542,11 @@ section {
     border-radius: 3px;
 }
 
+.newsletter .list-inline {
+    display: table;
+    margin: 0 auto;
+}
+
 .newsletter #success_page p,
 .newsletter #message {
     color: #ffffff;
@@ -685,7 +690,7 @@ section {
 
 /* Extra Section */
 .extra {
-    background-color: #242836;
+    background-color: #1a1b1c;
 }
 
 ul.extra-features {
@@ -712,7 +717,9 @@ ul.extra-features i{
 .tabs {
     margin-bottom: 50px;
 }
+img.extra {
 
+    }
 
 /* Video Section */
 
